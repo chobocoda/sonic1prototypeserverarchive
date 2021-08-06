@@ -1,6 +1,8 @@
 # sonic1prototypeserverarchive
 Archive of all the contents of the Sonic 1 Prototype Server.
 
+6th August 2021, stupid decisions by the creator, I've left the server and made this private. This is what they get for ruining the server.
+
 
 On July 27th 2021, MrLordSith deleted the Sonic 1 Prototype Server. The same day, a group of people attempted to preserve all information that was lost (in the deletion) in the server.
 
